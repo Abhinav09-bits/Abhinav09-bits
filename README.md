@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">Passionate coder and problem-solver with a knack for turning ideas into impactful digital solutions. Experienced in crafting clean, efficient code across diverse programming languages, specializing in Frontend,React,C++. Always ready to explore emerging technologies and push the boundaries of innovation. Collaborates effectively in teams, thrives in fast-paced environments, and values continuous learning to stay ahead in the tech landscape. Let's build something amazing together!"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav09-bits&label=Profile%20views&color=0aba50&style=flat" alt="abhinav09-bits" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav09-bits" alt="abhinav09-bits" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,25 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav09-bits&show_icons=true&locale=en" alt="abhinav09-bits" /></p>
 
-echo "# Abhinav09-bits" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Abhinav09-bits/Abhinav09-bits.git
-git push -u origin main## Hi there 👋
-
-<!--
-**Abhinav09-bits/Abhinav09-bits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
