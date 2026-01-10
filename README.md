@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<h1 align="center">Hi there👋, I'm Abhinav</h1>
 <h3 align="center">
 🚀 MERN Stack Developer | React & C++ Enthusiast  
 </h3>
@@ -11,6 +11,13 @@
 ---
 
 ### 👨‍💻 About Me
+
+- 💻 Experienced **MERN Stack Developer (MongoDB, Express, React, Node.js)**
+- ⚡ Passionate about writing **clean, efficient, and scalable code**
+- 🌱 Always exploring **new technologies** BlockChain and AI/ML and improving my skill set
+- 🤝 Strong team collaborator, thrives in fast-paced environments
+- 🎯 Focused on continuous learning and innovation
+
 ## ⚙️ Tech Stack
 
 ### 🧠 Languages
@@ -51,6 +58,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
