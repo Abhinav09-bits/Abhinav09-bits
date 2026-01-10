@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<h3 align="center">
+🚀 MERN Stack Developer | React & C++ Enthusiast  
+</h3>
+
+<p align="center">
+⭐ 3★ Coder on CodeChef <br/>
+💡 Turning ideas into impactful digital solutions
+</p>
+
+---
+
+### 👨‍💻 About Me
 ## ⚙️ Tech Stack
 
 ### 🧠 Languages
